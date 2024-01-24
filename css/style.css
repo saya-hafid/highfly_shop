@@ -1218,3 +1218,8 @@ https://preview.hasthemes.com/xoss-preview/xoss/index.html
 .testimonial-carousel .owl-dot.active::after {
     background: var(--primary);
 }
+
+.kenapa-color {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: deeppink;
+}
